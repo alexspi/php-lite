@@ -27,7 +27,7 @@ foreach ($menu as $key => $links) {
 
 <html><head>
 <meta http-equiv="content-type" content="text/html; charset=ISO-8859-5">
-    <link href=style.css rel=stylesheet>
+    <link href="style.css" rel="stylesheet">
 </head>
 <body>
 <header>
